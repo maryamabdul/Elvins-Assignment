@@ -1,0 +1,208 @@
+
+#top_view{
+	background-image: url(images/miy.jpg);
+	background-size: cover;
+	height: 80vh;
+	position: relative;
+	/*z-index: -1;*/
+	/*background-repeat: no-repeat;*/
+}
+
+li{
+	display: inline;
+	list-style: none;
+	padding: 10px 20px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+ ul{
+ 	float: right;
+ }
+  #mimi{
+ margin-left: 300px;
+ /*font-color:white;*/
+ }
+ #mimi h1{
+   font-size: 70px;
+   color: white;
+ }
+ #mimi p{
+ 	font-size:15px;
+ 	color: white;
+ }
+ .d{
+ 	margin-left: 20px;
+ }
+ .b{
+ 	margin-left: 20px;
+ }
+ #mi{
+ 	text-align: center;
+ }
+ #bi{
+ 	display: flex;
+ 	margin-left: 140px
+ }
+#no{
+	margin-left: 40px;
+}
+#mu{
+	margin-left: 40px;
+}
+#po{
+	margin-left: 40px;
+}
+#ab{
+	display: flex;
+	margin-left: 140px;
+}
+#on{
+margin-left: 25px;
+}
+#um{
+margin-left: 30px;
+}
+#op{
+	margin-left: 40px;
+}
+.nit{
+	position: relative;
+}
+
+.nit:before{
+  content:" ";
+  position: absolute;
+  height: 3px;
+  width: 30%;
+  background-color: red;
+  left: 50%;
+  bottom: -8px;
+  transform:translate(-50%);
+}
+.bo{
+	position: relative;
+
+}
+.bo:before{
+	content:" ";
+  position: absolute;
+  height: 3px;
+  width: 30%;
+  background-color: red;
+  left: 50%;
+  bottom: -8px;
+  transform:translate(-60%);
+}
+.ui{
+	position: relative;
+
+}
+.ui:before{
+  content:" ";
+  position: absolute;
+  height: 3px;
+  width: 30%;
+  background-color: red;
+  left: 50%;
+  bottom: -15px;
+  transform:translate(-50%);
+}
+.id{
+	position: relative;
+
+}
+.id:before{
+	  content:" ";
+  position: absolute;
+  height: 3px;
+  width: 30%;
+  background-color: red;
+  left: 50%;
+  bottom: -8px;
+  transform:translate(-90%);
+}
+.bi{
+	position: relative;
+
+}
+.bi:before{
+  content:" ";
+  position: absolute;
+  height: 3px;
+  width: 30%;
+  background-color: red;
+  left: 20%;
+  bottom: -8px;
+  transform:translate(-55%);
+
+}
+.by{
+	position: relative;
+
+}
+.by:before{
+	 content:" ";
+  position: absolute;
+  height: 3px;
+  width: 30%;
+  background-color: red;
+  left: 50%;
+  bottom: -8px;
+  transform:translate(-90%);
+}
+.ne{
+	position: relative;
+
+}
+.ne:before{
+  content:" ";
+  position: absolute;
+  height: 3px;
+  width: 30%;
+  background-color: red;
+  left: 20%;
+  bottom: -8px;
+  transform:translate(-50%);
+}
+.nu{
+	position: relative;
+
+}
+.nu:before{
+	  content:" ";
+  position: absolute;
+  height: 3px;
+  width: 30%;
+  background-color: red;
+  left: 40%;
+  bottom: -8px;
+  transform:translate(-50%);
+}
+.bi{
+	margin-left: 10px;
+}
+.by{
+	margin-left: 10px;
+}
+.ne{
+	margin-left: 10px;
+}
+.nu{
+	margin-left: 10px;
+}
+.cs{
+	margin-left: 20px;
+}
+/*#logo{*/
+	/*margin:  -15px;*/
+/*}*/
+
+	/*float: left;*/
+	/*padding: 10px;*/
+	/*transition: translate(-20%);*/
+/*}*/
+/*/.logo{*/*/
+  /*margin-left: 10px;*/
+/*}*/
